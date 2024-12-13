@@ -1,4 +1,5 @@
-﻿namespace Microsoft.eShopWeb.Web;
+﻿// I am adding a new comment
+namespace Microsoft.eShopWeb.Web;
 
 public static class Constants
 {
